@@ -1,6 +1,10 @@
 {
-    "name": "Day 1",
+    "name": "day7",
     "version": "1.0.0",
     "main": "dist/index.js",
-    "license": "MIT"
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+        "@types/node": "^18.11.11"
+    }
 }
